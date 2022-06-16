@@ -1,2 +1,2 @@
 # sup-admin-vue
-admin template best practices based on Vue
+admin template best practices based on Vue.js
